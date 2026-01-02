@@ -1,6 +1,6 @@
-# CarbonIt Chat
+# CarbonIt Messenger
 
-CarbonIt Chat is an experimental decentralized, end-to-end encrypted P2P chat system built in Python.
+CarbonIt Messengeris an experimental decentralized, end-to-end encrypted P2P chat system built in Python.
 It’s designed to demonstrate secure communication principles — including key rotation, message acknowledgment, offline queueing, and peer-to-peer transport — without relying on central servers.
 
 Credits at CREDITS.md.
@@ -9,7 +9,7 @@ Credits at CREDITS.md.
 
 “Privacy should not be a privilege — it should be the foundation.”
 
-CarbonIt Chat is an open experiment to build an internet where communication is private, decentralized, and user-controlled.
+CarbonIt Messenger is an open experiment to build an internet where communication is private, decentralized, and user-controlled.
 
 # - Key Features
 
@@ -52,7 +52,7 @@ carbonIt/
 ⚙️ How to Run
 1. Clone the Repository:
 
-```git clone https://github.com/CarbonIt-Labs/carbonit-chat.git```
+```git clone https://github.com/CarbonIt-Labs/carbonit-messenger.git```
 ```cd carbonit-messenger/network```
 
 3. Run the Node
